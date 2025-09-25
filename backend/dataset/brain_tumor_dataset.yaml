@@ -1,0 +1,7 @@
+# brain_tumor_dataset.yaml
+train: P:/brain-tumor-detection/backend/dataset/split_dataset/train
+val: P:/brain-tumor-detection/backend/dataset/split_dataset/val
+test: P:/brain-tumor-detection/backend/dataset/split_dataset/test
+
+nc: 4  # number of classes
+names: ['glioma', 'meningioma', 'notumor', 'pituitary']
